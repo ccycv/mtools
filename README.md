@@ -1,6 +1,9 @@
 # mtools
 Miner tools
 I have made the following scripts because my miner crash after few hours/days.
+
+Check DOC file.
+
 1. Edit home path ( /home/cristian/ )from stratminer.sh 
 2. Add script to cron.
 
